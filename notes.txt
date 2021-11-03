@@ -1,4 +1,4 @@
-Batch 10 notes.txt are all ready
+Batch 10 notes.txt are not ready
 
 What is framework?
 yes the framework mike developed is now being checked by sule and it's not giving error
