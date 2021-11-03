@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="7" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="13118" started-at="2021-10-23T14:33:00 EDT" finished-at="2021-10-23T14:33:13 EDT">
+    <groups>
+      <group name="smoke">
+        <method signature="LoginTest.invalidLoginErrorMessageValidation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.LoginTest@3a883ce7]" name="invalidLoginErrorMessageValidation" class="testCases.LoginTest"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="C:/Users/Jesus/eclipse-workspace/TestNgFrameworkB10" duration-ms="13118" started-at="2021-10-23T14:33:00 EDT" finished-at="2021-10-23T14:33:13 EDT">
+      <class name="testCases.LoginTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:testCases.LoginTest@3a883ce7]" name="openBrowser" is-config="true" duration-ms="2573" started-at="2021-10-23T14:33:00 EDT" finished-at="2021-10-23T14:33:02 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="invalidLoginErrorMessageValidation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.LoginTest@3a883ce7]" name="invalidLoginErrorMessageValidation" duration-ms="642" started-at="2021-10-23T14:33:02 EDT" data-provider="invalidData" finished-at="2021-10-23T14:33:03 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[James]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123!]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid credentials]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginErrorMessageValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.LoginTest@3a883ce7]" name="tearDown" is-config="true" duration-ms="670" started-at="2021-10-23T14:33:03 EDT" finished-at="2021-10-23T14:33:04 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:testCases.LoginTest@3a883ce7]" name="openBrowser" is-config="true" duration-ms="1637" started-at="2021-10-23T14:33:04 EDT" finished-at="2021-10-23T14:33:06 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="invalidLoginErrorMessageValidation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.LoginTest@3a883ce7]" name="invalidLoginErrorMessageValidation" duration-ms="514" started-at="2021-10-23T14:33:06 EDT" data-provider="invalidData" finished-at="2021-10-23T14:33:06 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hum@nhrm123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid credentials]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginErrorMessageValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.LoginTest@3a883ce7]" name="tearDown" is-config="true" duration-ms="651" started-at="2021-10-23T14:33:06 EDT" finished-at="2021-10-23T14:33:07 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:testCases.LoginTest@3a883ce7]" name="openBrowser" is-config="true" duration-ms="1679" started-at="2021-10-23T14:33:07 EDT" finished-at="2021-10-23T14:33:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="invalidLoginErrorMessageValidation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.LoginTest@3a883ce7]" name="invalidLoginErrorMessageValidation" duration-ms="374" started-at="2021-10-23T14:33:09 EDT" data-provider="invalidData" finished-at="2021-10-23T14:33:09 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Password cannot be empty]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginErrorMessageValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.LoginTest@3a883ce7]" name="tearDown" is-config="true" duration-ms="691" started-at="2021-10-23T14:33:09 EDT" finished-at="2021-10-23T14:33:10 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:testCases.LoginTest@3a883ce7]" name="openBrowser" is-config="true" duration-ms="1690" started-at="2021-10-23T14:33:10 EDT" finished-at="2021-10-23T14:33:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="invalidLoginErrorMessageValidation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.LoginTest@3a883ce7]" name="invalidLoginErrorMessageValidation" duration-ms="355" started-at="2021-10-23T14:33:12 EDT" data-provider="invalidData" finished-at="2021-10-23T14:33:12 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hum@nhrm123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Username cannot be empty]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginErrorMessageValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.LoginTest@3a883ce7]" name="tearDown" is-config="true" duration-ms="664" started-at="2021-10-23T14:33:12 EDT" finished-at="2021-10-23T14:33:13 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.LoginTest -->
+    </test> <!-- C:/Users/Jesus/eclipse-workspace/TestNgFrameworkB10 -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
