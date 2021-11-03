@@ -1,6 +1,7 @@
 Batch 10 notes.txt are all ready
 
 What is framework?
+yes the framework mike developed is now being checked by sule and it's not giving error
  It gives us an organized folder structure to follow while wring the code.
 
 Benefits of framework?
